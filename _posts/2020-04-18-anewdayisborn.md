@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "A New Day is Born!"
 published: true
 ---
