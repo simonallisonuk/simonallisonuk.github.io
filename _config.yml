@@ -5,6 +5,8 @@ plugins:
   - jekyll-octicons
   - jekyll-github-metadata
   - jemoji
+ 
+remote_theme: birssan/grav-theme-nucleare
 
 permalink: /:year/:month/:day/:title/
 
