@@ -6,7 +6,7 @@ plugins:
   - jekyll-github-metadata
   - jemoji
  
-remote_theme: birssan/grav-theme-nucleare
+remote_theme: seb-vial/grav-theme-nucleare
 
 permalink: /:year/:month/:day/:title/
 
