@@ -27,8 +27,8 @@ projects:
   exclude:
     archived: false
     forks: false
-    projects:
-     - simonallisonuk.github.io
+   # projects:
+    # - simonallisonuk.github.io
 
 social_media:
   # behance: your_username
